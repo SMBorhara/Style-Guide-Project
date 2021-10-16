@@ -1,0 +1,213 @@
+body {
+    background-color: black;
+  }
+  
+  /* color box*/ 
+  
+  #colorbox{
+    border: 1px solid darkorange;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+  }
+  
+  .colorhead {
+    color: darkorange;
+    text-align: center
+  }
+  
+  
+  .colors li{
+    display: inline-block;
+    text-align: center;
+    margin-left: 25px;
+    color: white;
+     
+  }
+  
+  .purp{
+    background-color: darkviolet;
+    font-size: 18px;
+    padding: 20px 30px;
+    width: 25%;
+    font-family: "IM Fell English SC";
+  }
+  
+  .or{
+    background-color: darkorange;
+    font-size: 18px;
+    padding: 20px 30px;
+    width: 25%;
+    font-family: "Shadows Into Light";
+    
+  }
+  
+  .gr{
+    background-color: yellowgreen;
+    font-size: 18px;
+    padding: 20px 30px;
+    width: 25%;
+    font-family: "Rock Salt";
+  }
+  
+  #fontbox{
+    border: 1px solid darkviolet;
+    padding-bottom: 40px;
+    margin-top: 50px:
+  }
+  
+  /*font box */
+  
+  .fonthead{
+    color: darkviolet;
+    text-align: center;
+  }
+  
+  /* IM Fell Font */
+  
+  .fellenglish{
+    width: 25%;
+  }
+  
+  .fell{
+    color: white;
+    padding-left: 10px;
+    text-align: left;
+    font-family: "IM Fell English SC";
+    text-decoration: underline;
+  }
+  
+  .fellnorm{
+    font-family: "IM Fell English SC";
+    color: darkorange;
+    padding-left: 15px;
+  }
+  
+  .felli{
+    font-family: "IM Fell English SC";
+    color: yellowgreen;
+    font-style: italic;
+    padding-left: 15px;
+  }
+  
+  /* Shadow Fonts */
+  
+  .shadowlight{
+    width: 25%;
+    margin: 0 auto;
+    margin-top: -120px;
+  
+  }
+  
+  .shadow{
+    color: white;
+    text-align: center;
+    font-family: "Shadows Into Light";
+    text-decoration: underline;
+  }
+  
+  .shadnorm{
+    color: yellowgreen;
+    text-align: center;
+    font-family: "Shadows Into Light";
+  }
+  
+  .shadb{
+    color: darkorange;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Shadows Into Light";
+  }
+  
+  .shadi{
+    color: darkviolet;
+    text-align: center;
+    font-style: italic;
+    font-family: "Shadows Into Light";
+  }
+  
+  /* Rock Salt */
+  .salt{
+    width: 25%;
+    margin-left: 70%;
+    margin-top: -185px;
+  }
+  
+  .rocksalt{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    font-family: "Rock Salt";
+  }
+  
+  .rocknorm{
+    text-align: center;
+    color: darkviolet;
+    font-family: "Rock Salt";
+  }
+  
+  .rockb{
+    text-align: center;
+    color: yellowgreen;
+    font-family: "Rock Salt";
+    font-weight: bold;
+  }
+  
+  .rocki{
+    text-align: center;
+    color: darkorange;
+    font-family: "Rock Salt";
+    font-style: italic;
+  }
+  
+  /* text style box */
+  #textstyle{
+    border: 1px solid yellowgreen;
+    padding-bottom: 40px;
+    margin-top: 50px;
+  }
+  
+  .styles{
+    color: yellowgreen;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .heading{
+    color: darkorange;
+    padding-left: 50px;
+    text-decoration: underline;
+  }
+  
+  .headings li{
+    color: darkviolet;
+    font-size: 22px;  
+  }
+  
+  .borders{
+    color: darkorange;
+    padding-left: 50px;
+    padding-top: 30px;
+    text-decoration: underline;
+    
+  }
+  
+  .borderstyle li{
+    color: darkviolet;
+    font-size: 22px;
+  }
+  
+  .style{
+    color: darkorange;
+    text-decoration: underline;
+    padding-left: 50px;
+    padding-top: 30px;
+  }
+  
+  .liststyles li{
+    color: darkviolet;
+    font-size: 22px;
+  }
+  
+  
+  
+  
